@@ -20,13 +20,13 @@ const Model = () => {
 						<article className='experience__details'>
 							<div>
 								<h4>Research Internship Results</h4>
-								<a href="https://helena-f.github.io/3D/" className='text-light link'>View presentation and paper.</a>					
+								<a href="https://drive.google.com/drive/folders/1Atj3LXSYRQDbkVmS3Y-CPHXDL1ybBzc1?usp=sharing" className='text-light link'>View presentation and paper.</a>					
 							</div>
 						</article>
 						<article className='experience__details'>
 							<div>
 								<h4>Music Neural Network</h4>
-								<a href="https://helena-f.github.io/3D/" className='text-light link'>Listen to AI Composer.</a>					
+								<a href="https://helena-f.github.io/3D/composer.html" className='text-light link'>Listen to AI Composer.</a>					
 							</div>
 						</article>
 					</div>
@@ -43,7 +43,7 @@ const Model = () => {
 						<article className='experience__details'>
 							<div>
 								<h4>Pathing Algorithms</h4>
-								<a href="https://helena-f.github.io/3D/robotics/" className='text-light link'>View algorithms and odometry demonstrations.</a>
+								<a href="https://helena-f.github.io/3D/algorithms.html" className='text-light link'>View algorithms and odometry demonstrations.</a>
 							</div>
 						</article>
 						<article className='experience__details'>
