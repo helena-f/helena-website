@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/helena-website/static/css/main.df83bf1f.css",
-    "main.js": "/helena-website/static/js/main.d2ebf378.js",
+    "main.js": "/helena-website/static/js/main.9104a7de.js",
     "static/media/6.jpg": "/helena-website/static/media/6.31aa01614292281275fd.jpg",
     "static/media/1.jpg": "/helena-website/static/media/1.58cbc112fbe88dddd164.jpg",
     "static/media/5.jpg": "/helena-website/static/media/5.d15ccbe87faee1a11464.jpg",
@@ -15,10 +15,10 @@
     "static/media/bg-texture.png": "/helena-website/static/media/bg-texture.6391b207f11a8e56d70c.png",
     "index.html": "/helena-website/index.html",
     "main.df83bf1f.css.map": "/helena-website/static/css/main.df83bf1f.css.map",
-    "main.d2ebf378.js.map": "/helena-website/static/js/main.d2ebf378.js.map"
+    "main.9104a7de.js.map": "/helena-website/static/js/main.9104a7de.js.map"
   },
   "entrypoints": [
     "static/css/main.df83bf1f.css",
-    "static/js/main.d2ebf378.js"
+    "static/js/main.9104a7de.js"
   ]
 }
