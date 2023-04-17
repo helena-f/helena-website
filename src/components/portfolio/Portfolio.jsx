@@ -16,6 +16,10 @@ import ART5 from '../../assets/art/5.jpg'
 import ART6 from '../../assets/art/6.jpg'
 import ART7 from '../../assets/art/7.jpg'
 import ART8 from '../../assets/art/8.jpg'
+import ART9 from '../../assets/art/9.jpg'
+import ART10 from '../../assets/art/10.jpg'
+import ART11 from '../../assets/art/11.jpg'
+import ART12 from '../../assets/art/12.jpg'
 
 const data = [
   {
@@ -62,6 +66,30 @@ const data = [
     image: ART8,
     title: 'Spoon Study',
     desc: 'Digital'
+  }
+  ,
+  {
+    image: ART9,
+    title: 'Orchards',
+    desc: 'Digital'
+  }
+  ,
+  {
+    image: ART10,
+    title: 'Heart Study',
+    desc: 'Digital'
+  }
+  ,
+  {
+    image: ART11,
+    title: 'Brain Study',
+    desc: 'Pen on Paper'
+  }
+  ,
+  {
+    image: ART12,
+    title: 'Chance',
+    desc: 'Oil paint on Canvas'
   }
 ]
 

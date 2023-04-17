@@ -12,6 +12,7 @@ const Header = () => {
                 <div className="me">
                     <img src={ME} alt="me" />
                 </div>
+                <h4>Made with React</h4>
             </div>
         </header>
     )
