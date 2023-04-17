@@ -15,6 +15,7 @@ import ART4 from '../../assets/art/4.jpg'
 import ART5 from '../../assets/art/5.jpg'
 import ART6 from '../../assets/art/6.jpg'
 import ART7 from '../../assets/art/7.jpg'
+import ART8 from '../../assets/art/8.jpg'
 
 const data = [
   {
@@ -55,6 +56,11 @@ const data = [
   {
     image: ART7,
     title: 'Picturesque',
+    desc: 'Digital'
+  },
+  {
+    image: ART8,
+    title: 'Spoon Study',
     desc: 'Digital'
   }
 ]

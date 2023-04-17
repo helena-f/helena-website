@@ -3,7 +3,7 @@ import './model.css'
 import { BsPatchCheckFill } from 'react-icons/bs'
 const Model = () => {
 	return (
-		<section id='experience'>
+		<section id='model'>
 			<h5>Click links to</h5>
 			<h2>My Projects</h2>
 
@@ -49,7 +49,7 @@ const Model = () => {
 						<article className='experience__details'>
 							<div>
 								<h4>Image Recognition</h4>
-								<a href="https://helena-f.github.io/3D/robotics/" className='text-light link'>View image recognition through the years.</a>
+								<a href="https://helena-f.github.io/3D/image.html" className='text-light link'>View image recognition through the years.</a>
 							</div>
 						</article>
 					</div>

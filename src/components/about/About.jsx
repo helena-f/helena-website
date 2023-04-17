@@ -38,6 +38,10 @@ const About = () => {
           <div className='center'>
             <a href="#contact" className='btn btn-primary'>Let's Talk</a>
           </div>
+          <br />
+          <div className='center'>
+            <a href="#model" className='btn btn-primary'>See My Projects</a>
+          </div>
         </div>
       </div>
     </section>
