@@ -6,7 +6,7 @@ import Experience from './components/experience/Experience'
 import Portfolio from './components/portfolio/Portfolio'
 import Contact from './components/contact/Contact'
 import Model from './components/model/Model'
-import Art from './components/art/art'
+import Art from './components/art/Art'
 
 const App = () => {
   return (
