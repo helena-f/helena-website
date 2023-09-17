@@ -18,7 +18,7 @@ const Contact = () => {
               <article className='experience__details'>
                 <div>
                   <h4>Email</h4>
-                  <small className='text-light'>helenafu0705@gmail.com</small>
+                  <small className='text-light'>helena.fu@tufts.edu</small>
                 </div>
 
               </article>
